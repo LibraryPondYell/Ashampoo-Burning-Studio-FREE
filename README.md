@@ -1,4 +1,4 @@
-**# bpcgnszw**# Ashampoo-Burning-Studio-FREE
+# Ashampoo-Burning-Studio-FREE
 
 ## Educational analysis tools for studying optical media authoring, disc mastering, and data backup in Ashampoo Burning Studio.
 
